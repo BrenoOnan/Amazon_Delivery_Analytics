@@ -21,3 +21,4 @@ Este documento descreve as variáveis presentes na base de dados bruta (`amazon_
 
 ### 🛠️ Notas sobre o Tratamento de Dados (ETL)
 Durante a importação da base de dados original, constatou-se a presença de três colunas residuais e vazias (`Unnamed: 12`, `Unnamed: 13` e `Unnamed: 14`). Estas colunas foram geradas por erros de formatação na exportação do sistema de origem e foram **removidas** durante a etapa de limpeza e transformação de dados no Power Query.
+E colunas latitude que foram excluidas, são dados que não serão utilizados.
