@@ -17,6 +17,7 @@ Este documento descreve as variáveis presentes na base de dados bruta (`amazon_
 | **Delivery_Time** | Número Inteiro | Tempo total de entrega (em minutos) decorrido entre a recolha do pedido e a chegada ao cliente final. |
 | **Category** | Texto | Categoria do produto comprado pelo cliente (ex: *Electronics, Clothing, Grocery*). |
 
+
 ---
 
 ### 🛠️ Notas sobre o Tratamento de Dados (ETL)
