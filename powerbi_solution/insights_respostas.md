@@ -25,3 +25,4 @@ Este documento reúne as principais perguntas de negócio endereçadas no Dashbo
 * **Insight:** A metropolitana leva maior tempo de entrega pela alta concentração de trafego, e os veiculos com melhor rapidez e entrega é van e scooter.
 * **Recomendação Operacional:** A motocicleta é o veiculo que leva o maior tempo médio entre os veiculos, e atende 59% de entregas e contem 42% de atraso na área metropolitana. A van e scooter leva o menor tempo médio: 121min na metropolitana. representando somente 40% das entregas e 33% atraso e 33% regular.
 Van e scooter deveria ter uma demanda maior nas entregas, por sua agilidade ser maior e ter e menor atraso e pedidos regular 
+
