@@ -1,6 +1,6 @@
 # 📊 Insights e Respostas de Negócio — Supply Chain Analytics
 
-Este documento reúne as principais perguntas de negócio endereçadas no Dashboard de Entregas da Amazon, acompanhadas de suas respostas analíticas e recomendações operacionais.
+Este documento reúne as perguntas de negócio endereçadas no Dashboard de Entregas da Amazon, acompanhadas de suas respostas analíticas e recomendações operacionais.
 
 ---
 
