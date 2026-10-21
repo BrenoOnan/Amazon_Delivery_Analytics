@@ -14,7 +14,7 @@ Este documento reúne as perguntas de negócio endereçadas no Dashboard de Entr
 
 
 ### ❓ 2. Qual o veículos apresenta o maior tempos médios de entrega ❓
-* **Análise dos Dados:** O veículo registra o maior tempo médio de entrega **130-135Min**, e presenta **59%** de todas as areas de entrega.
+* **Análise dos Dados:** A motocicleta registra o maior tempo médio de entrega **130-135Min**, e presenta **59%** de todas as areas de entrega.
 * **Insight:** A moto por mais que detenha a maior contração de entrega, não é a opção mais eficiente em desempenho e prazo.
 * **Recomendação Operacional:** Fazer um diagnóstico de qual veículo é mais indicado para cada área da cidade, registribuindo a carga para os veículos com mais agilidade
 
