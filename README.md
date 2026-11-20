@@ -73,6 +73,6 @@ IF(
 
 Por ser uma medida avançada, conversei com a IA e procurei a melhor forma de representar o valor percentual dentro deste indicador.
 
-![Dashboard Amazon Delivery](dashboard_amazon_delivery.jpg)
+![Dashboard Amazon Delivery](powerbi_solution/dashboard_amazon_delivery.jpg/dashboard_amazon_delivery.jpg)
 
 👉 [Clique aqui para ver os Insights e Respostas de Negócio](./powerbi_solution/insights_respostas.md).
